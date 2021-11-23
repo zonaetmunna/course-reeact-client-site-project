@@ -1,0 +1,58 @@
+[
+     {
+          "id": 1,
+          "name": "Android development",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/MPRbRtP/andiord.jpg",
+          "price": 10
+     },
+     {
+          "id": 2,
+          "name": "Block-Chain",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/nDJPHbh/blockchain.jpg",
+          "price": 20
+     },
+     {
+          "id": 3,
+          "name": "c++",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/MCvRMPC/c.jpg",
+          "price": 30
+     },
+     {
+          "id": 4,
+          "name": "c#",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/tQGbKrc/c.jpg",
+          "price": 40
+     },
+     {
+          "id": 5,
+          "name": "Java",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/GHnZqLP/java.jpg ",
+          "price": 50
+     },
+     {
+          "id": 6,
+          "name": "Machine Learning",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/v3bkLcz/machine.jpg",
+          "price": 60
+     },
+     {
+          "id": 7,
+          "name": "Python",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/rGTZZ3J/python.jpg",
+          "price": 70
+     },
+     {
+          "id": 8,
+          "name": "web development",
+          "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque accusantium, fuga officiis sunt aliquam eligendi totam eos magni quia nam.",
+          "image": "https://i.ibb.co/9pQcyMD/web.jpg",
+          "price": 80
+     }
+]
